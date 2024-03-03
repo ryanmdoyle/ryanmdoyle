@@ -12,7 +12,7 @@ Tools & Technologies: Redwood.js, Next.js, Gatsby, Node, Apollo, Prisma, MongoDB
 ## Current Projects
 Here are some projects I'm currently working on:
 
-## Class Kudos
+### Class Kudos
 Description: A classroom reward/store dashboard for teachers, with student access to view feedback and purchase classroom rewards.<br>
 Technologies Used: Redwood.js (Apollo, Prisma, Postgres, GraphQL)<br>
 Link: [classkudos.com](https://www.classkudos.com)
